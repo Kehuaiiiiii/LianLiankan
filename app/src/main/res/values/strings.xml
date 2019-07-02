@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">连连看 口袋妖怪版</string>
+    <string name="game_time">剩余时间：</string>
+    <string name="lost">游戏失败</string>
+    <string name="lost_restart">时间到！游戏失败！</string>
+    <string name="dialog_sure">确定</string>
+    <string name="success">游戏胜利</string>
+    <string name="success_restart">游戏胜利！进入下一关</string>
+    <string name="remaining_time">剩余时间:%1$d</string>
+    <string name="pass">游戏通关</string>
+    <string name="pass_restart">恭喜大侠！游戏成功通关！</string>
+</resources>
